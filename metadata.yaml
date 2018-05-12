@@ -1,0 +1,31 @@
+_repo: The-Celebrity-at-Home_41556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41556-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Hunt, Violet
+    alias: Hunt, Isobel Violet
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '41235'
+    url: http://www.gutenberg.org/2009/agents/41235
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Hunt
+description: Title; Contents; Chapter I; Chapter II; Chapter III; Chapter IV; Chapter
+  V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter XI; Chapter
+  XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII; Chapter XVIII;
+  Chapter XIX; Chapter XX; Chapter XXI.
+gutenberg_issued: '2012-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Girls -- Conduct of life -- Fiction'
+title: The Celebrity at Home
+url: http://www.gutenberg.org/ebooks/41556
